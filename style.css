@@ -1,0 +1,39 @@
+.calc{
+    display: inline-block;
+    border: 2px solid black;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: -5px -5px 9px #ffffff73,
+                5px 5px 7px rgba(94,104,121,0.288);
+}
+#output{
+    height: 70px;
+    width:100%;
+
+}
+.container{
+    text-align: center;
+    margin-top: 20px;
+}
+.container h1,h4{
+    color: black;
+}
+table{
+    margin: auto;
+}
+input{
+    font-size: 30px;
+    border: 3px solid black;
+    border-radius: 9px;
+    font-family: Arial Rounded MT;
+}
+button{
+    font-size: 30px;
+    background: linear-gradient(to right,pink,white);
+    box-shadow: -5px -5px 9px #ffffff73,
+                5px 5px 7px rgba(94,104,121,0.288);
+    height: 70px;
+    width:80px;
+    border-radius: 20px;
+    font-family: Arial Rounded MT;
+}
